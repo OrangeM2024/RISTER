@@ -44,7 +44,6 @@ The models are trained on the **Union14M-L-Filtered** dataset (real-world scene 
 | RISTER-B | [4, 4, 4, 15] | 12 | 32.76M | - |
 | RISTER-L | [6, 6, 6, 18] | 12 | 38.65M | - |
 
-*(TODO: 将权重上传至 Google Drive / GitHub Release 并填入链接)*
 
 ---
 
@@ -100,7 +99,7 @@ If you find this work useful, please consider citing:
 }
 ```
 
-*(TODO: 论文正式发表后更新 BibTeX)*
+(TODO)
 
 ---
 
