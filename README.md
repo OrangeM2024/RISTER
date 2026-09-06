@@ -91,15 +91,12 @@ python tools/eval_rec.py --c configs/rec/rister/rister_l.yml -o "Eval.dataset.da
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{rister,
+@inproceedings{ma2026rister,
   title={Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition},
-  author={},
-  journal={},
-  year={}
+  author={Zhibin Ma and Pengwen Dai and Yi Liu and Xugong Qin and Chenyun Yu and Xiaochun Cao},
+  booktitle={ECCV},
+  year={2026}
 }
-```
-
-(TODO)
 
 ---
 
